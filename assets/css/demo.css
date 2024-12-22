@@ -2,6 +2,10 @@
     margin-bottom: 20px;
 }
 
+.imagen {
+text-align: center;
+}
+
 .tim-white-buttons {
     background-color: #777777;
 }
